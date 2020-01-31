@@ -25,4 +25,4 @@ Home Page
 [Click here](https://gentle-harbor-84275.herokuapp.com/)
 
 
- #### Creator: *Rugiya Mammadov*
+ #### Creator: *Rugiyya Mammadov*
